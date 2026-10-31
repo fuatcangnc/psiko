@@ -1,51 +1,105 @@
 {
-  "industry": "mühendislik",
-  "automotive": true,
-  "heroEyebrow": "TSE 360 & TÜVTÜRK YETKİLİ ARAÇ PROJE OFİSİ",
-  "heroTitle": "Araç proje hizmetleri ve motosiklet çanta ruhsata işletme",
-  "heroDescription": "Yetkili makine mühendisliği kadromuzla araç projelerinizi ve motosiklet çanta tescillerinizi hızlı, eksiksiz ve mevzuata tam uyumlu biçimde yönetiyoruz.",
+  "industry": "Psikolog",
+  "automotive": false,
+  "heroEyebrow": "ANKARA PSİKOLOJİK DANIŞMANLIK MERKEZİ",
+  "heroTitle": "İçsel Huzurunuza ve Yaşam Dengene Güvenli Bir Adım Atın",
+  "heroDescription": "Ankara'da uzman klinik psikolog kadromuzla, hayatın zorlu dönemlerinde şefkatli, yargısız ve gizlilik temelli psikoterapi desteği sunuyoruz.",
   "highlights": [
-    "Araç Proje | TSE Onaylı",
-    "Motosiklet Çanta Ruhsata İşletme",
-    "TÜVTÜRK & Noter Tescil Desteği"
+    "Mutlak Gizlilik",
+    "Bilimsel Yaklaşım",
+    "Şefkatli Rehberlik",
+    "Uzman Kadro"
   ],
   "metrics": [
     {
-      "value": "12+ Yıl",
-      "label": "Mühendislik Deneyimi"
-    },
-    {
-      "value": "1.000+",
-      "label": "Tescilli Proje"
+      "value": "10+ Yıl",
+      "label": "Klinik Deneyim"
     },
     {
       "value": "%100",
-      "label": "Mevzuat Uyumu"
+      "label": "Gizlilik ve Etik"
+    },
+    {
+      "value": "50 Dk",
+      "label": "Seans Süresi"
     }
   ],
-  "aboutTitle": "Araç projesi ve motosiklet çanta tescilinde iki ana uzmanlık",
-  "aboutText": "İhtiyacınız olan hizmet alanını seçin; mevzuata tam uygun teknik hesaplama, TSE 360 dijital dosya onayı ve noter tescil adımlarını sıfır hata güvencesiyle tamamlayalım.",
+  "aboutTitle": "Güvenli, Yargısız ve Şefkatli Bir İyileşme Alanı",
+  "aboutText": "Psiko, bireylerin ve ailelerin duygusal dengelerini yeniden keşfetmelerine yardımcı olmak amacıyla Ankara'da hizmet vermektedir. Bilimsel ve etik ilkeler ışığında, her danışanımızın hikayesine saygı ve empatiyle yaklaşıyoruz. Güvenli ve gizlilik odaklı bir ortamda iyileşme sürecinize eşlik ediyoruz.",
   "categories": [
-    "Araç Projeleri",
-    "Dönüşüm",
-    "Söküm",
-    "Motosiklet",
-    "Belgelendirme"
+    "Yetişkin",
+    "İlişki & Aile",
+    "Çocuk & Ergen",
+    "Travma"
   ],
-  "services": [],
+  "services": [
+    {
+      "title": "Bireysel Yetişkin Terapisi",
+      "shortTitle": "Bireysel Yetişkin Terapisi",
+      "slug": "bireysel-yetiskin-terapisi",
+      "summary": "Kaygı, depresyon ve yaşam krizlerinde içsel kaynaklarınızı keşfetmeniz için bire bir psikoterapi desteği.",
+      "category": "Yetişkin"
+    },
+    {
+      "title": "Çift ve Aile Terapisi",
+      "shortTitle": "Çift ve Aile Terapisi",
+      "slug": "cift-ve-aile-terapisi",
+      "summary": "İlişkilerdeki iletişim engellerini aşmak, çatışmaları çözümlemek ve bağları güçlendirmek için uzman danışmanlık.",
+      "category": "İlişki & Aile"
+    },
+    {
+      "title": "Çocuk ve Ergen Danışmanlığı",
+      "shortTitle": "Çocuk ve Ergen Danışmanlığı",
+      "slug": "cocuk-ve-ergen-danismanligi",
+      "summary": "Gelişimsel süreçler, sınav kaygısı ve duygusal güçlüklerde gençlere ve ailelerine rehberlik desteği.",
+      "category": "Çocuk & Ergen"
+    },
+    {
+      "title": "EMDR ve Travma Terapisi",
+      "shortTitle": "EMDR ve Travma Terapisi",
+      "slug": "emdr-ve-travma-terapisi",
+      "summary": "Geçmişin sarsıcı izlerini ve travmatik anıları duyarsızlaştırıp yeniden işlemlemeyi sağlayan bilimsel yöntem.",
+      "category": "Travma"
+    },
+    {
+      "title": "Kaygı ve Anksiyete Terapisi",
+      "shortTitle": "Kaygı ve Anksiyete Terapisi",
+      "slug": "kaygi-ve-anksiyete-terapisi",
+      "summary": "Panik atak, fobi ve yaygın kaygılarda zihinsel ve bedensel rahatlama sağlayan müdahaleler.",
+      "category": "Yetişkin"
+    },
+    {
+      "title": "Depresyon Danışmanlığı",
+      "shortTitle": "Depresyon Danışmanlığı",
+      "slug": "depresyon-danismanligi",
+      "summary": "Tükenmişlik ve yoğun çökkünlük hissiyle başa çıkarak yaşamsal motivasyonu adım adım geri kazanma süreci.",
+      "category": "Yetişkin"
+    },
+    {
+      "title": "Online Psikolojik Danışmanlık",
+      "shortTitle": "Online Psikolojik Danışmanlık",
+      "slug": "online-psikolojik-danismanlik",
+      "summary": "Klinik ortamına gelemeyen danışanlarımız için gizlilik esasına dayalı güvenli görüntülü terapi imkanı.",
+      "category": "Yetişkin"
+    }
+  ],
   "faq": [
     {
-      "question": "Motosiklet çanta ruhsata nasıl işletilir?",
-      "answer": "Motosiklete monte edilen arka çanta veya taşıma kutusu için yetkili makine mühendisimiz tarafından TSE onaylı tadilat projesi çizilir. Ardından TSE Araç Kontrol Merkezi incelemesi ve TÜVTÜRK tespit muayenesi yapılarak noterden yeni ruhsat teslim alınır."
+      "question": "Seanslar ne kadar sürer ve hangi sıklıkla yapılır?",
+      "answer": "Bireysel terapi seanslarımız standart olarak 50 dakika sürer. Seans sıklığı danışanın ihtiyaçlarına ve sürecin dinamiklerine göre genellikle haftada bir olarak planlanır."
     },
     {
-      "question": "Araç projesi hangi durumlarda zorunludur?",
-      "answer": "Karavan dönüşümü, motor değişimi, çeki demiri montajı, koltuk sökümü veya ilavesi, LPG sökümü ve engelli aparatı gibi aracın fabrika çıkış özelliklerini değiştiren tüm işlemlerde yasal olarak araç projesi zorunludur."
+      "question": "Görüşmelerde paylaştıklarım gizli kalır mı?",
+      "answer": "Tüm psikoterapi görüşmeleri mesleki etik kurallar ve mutlak danışan gizliliği ilkeleri çerçevesinde yürütülür. Paylaştığınız hiçbir bilgi üçüncü taraflarla paylaşılmaz."
     },
     {
-      "question": "TSE onay ve ruhsat süreci ne kadar sürer?",
-      "answer": "Teknik evraklarınız ve montaj faturanız hazır olduğunda proje çizimi ve TSE 360 sistemine dosya yükleme işlemi aynı gün içinde tamamlanır. Randevu sonrasında muayene ve noter tesciliyle süreç hızla sonuçlandırılır."
+      "question": "İlk seansa gelmeden önce hazırlık yapmalı mıyım?",
+      "answer": "Özel bir hazırlık yapmanız gerekmez. İlk seans, sizi kliniğimize getiren süreci, beklentilerinizi ve ihtiyaç duyduğunuz destek alanını birlikte keşfetmeye ayrılır."
+    },
+    {
+      "question": "WhatsApp üzerinden nasıl randevu oluşturabilirim?",
+      "answer": "WhatsApp butonuna tıklayarak doğrudan uzman ekibimize ulaşabilir, seanslar hakkında bilgi alıp size en uygun randevu saatini planlayabilirsiniz."
     }
   ],
-  "ctaLabel": "Teklif Al"
+  "ctaLabel": "WhatsApp ile Randevu Al"
 }

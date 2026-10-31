@@ -3,7 +3,8 @@
 	"sites": [
 		{
 			"key": "root",
-			"name": "Yeni Site",
+			"name": "psiko",
+			"url": "https://app.wuppycms.com/preview/fuatcangnc-psiko-p8r1s/",
 			"media": "public",
 			"publishing": "review",
 			"collections": ["posts", "pages"]
