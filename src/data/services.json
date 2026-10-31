@@ -33,9 +33,9 @@
       "title": "Çocuk ve Ergen Danışmanlığı",
       "image": ""
     },
-    {
+        {
       "category": "Travma",
-      "featured": false,
+      "featured": true,
       "icon": "bus",
       "order": 4,
       "shortTitle": "EMDR ve Travma Terapisi",
